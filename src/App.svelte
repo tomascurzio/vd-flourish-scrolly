@@ -35,7 +35,7 @@
 </script>
 
 <section id="header">
-  <img src="./public/images/worldcuplogo.png" alt="World Cup Logo" class="logo">
+  <img src="/images/worldcuplogo.png" alt="World Cup Logo" class="logo">
   <h1 id="main_title">
     Uno por uno, quiénes son los jugadores con más chances de jugar en el Mundial
   </h1>
